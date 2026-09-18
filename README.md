@@ -1,4 +1,4 @@
-# 🚀 Arduino Bootcamp | Bootcamp de Arduino
+<p align="center"># 🚀 Arduino Bootcamp | Bootcamp de Arduino</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-Bootcamp-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Bootcamp">
