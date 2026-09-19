@@ -341,47 +341,6 @@ y lo apaga durante otro segundo, repitiendo el proceso continuamente.
 
 ---
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas.
-
-### Cómo contribuir
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama:
-
-```bash
-git checkout -b feature/new-lesson
-```
-
-3. Realiza tus cambios.
-4. Comprueba que el contenido funciona correctamente.
-5. Haz commit de tus cambios:
-
-```bash
-git commit -m "feat: add new Arduino lesson"
-```
-
-6. Sube la rama:
-
-```bash
-git push origin feature/new-lesson
-```
-
-7. Abre un Pull Request.
-
-### Tipos de contribuciones
-
-- Nuevas lecciones.
-- Correcciones de errores.
-- Traducciones.
-- Nuevos proyectos Arduino.
-- Mejoras en la plataforma.
-- Documentación.
-- Accesibilidad y usabilidad.
-
----
-
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
@@ -719,47 +678,6 @@ for another second, repeating the process continuously.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-### How to Contribute
-
-1. Fork the repository.
-2. Create a new branch:
-
-```bash
-git checkout -b feature/new-lesson
-```
-
-3. Make your changes.
-4. Test that everything works correctly.
-5. Commit your changes:
-
-```bash
-git commit -m "feat: add new Arduino lesson"
-```
-
-6. Push your branch:
-
-```bash
-git push origin feature/new-lesson
-```
-
-7. Open a Pull Request.
-
-### Contribution Types
-
-- New lessons.
-- Bug fixes.
-- Translations.
-- New Arduino projects.
-- Platform improvements.
-- Documentation.
-- Accessibility and usability improvements.
-
----
-
 ## 📄 License
 
 This project is distributed under the MIT License.
@@ -784,7 +702,7 @@ If you find this project useful:
 
 Have a question, suggestion, or idea?
 
-Feel free to open an issue or start a discussion in the repository.
+Feel free to open an issue or start a discussion in the repository or send an email to hola@elmarcels.xyz
 
 ---
 
